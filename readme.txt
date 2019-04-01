@@ -1,4 +1,4 @@
-git is a distributed version control system.
+g;;;;;;;;;;;;;;;;;;it is a distributed version control system.
 GPL
 git is great.
 
